@@ -4,8 +4,8 @@
    background-color: red;
    border: 2ps solid black;
    display: flex;
-   max-height: 850px;
-   min-height: 850px;
+   max-height: 650px;
+   min-height: 650px;
 
 
 }
@@ -53,10 +53,10 @@
 }
 
 .caption3 {
-   width: 700px;
-   height: 250px;
+   width: 600px;
+   height: 170px;
    position: absolute;
    bottom: px;
    right: 16px;
-   top: 55%;
+   top: 63%;
 }
